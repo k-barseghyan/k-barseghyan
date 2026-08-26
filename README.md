@@ -1,9 +1,5 @@
-#### Low-latency concurrent systems, with correctness as a first-class requirement.
+I am an experienced Java engineer with a strong focus on low-latency systems.
 
-#### Specialized high-performance data structures and processing tools.
+My background includes financial-market and trading systems, complemented by building and maintaining performance-oriented open-source Java libraries through [j-util](https://github.com/j-util).
 
-#### Open-source Java libraries through [j-util](https://github.com/j-util).
-
-#### Focus on low allocation, cache locality, concurrency, and predictable runtime behavior.
-
-#### Distributed backend systems with Java, Spring Boot, messaging, data platforms, and AWS.
+I design and maintain distributed backend systems with Spring Boot, messaging, data platforms, and AWS.
